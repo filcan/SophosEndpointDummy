@@ -1,0 +1,17 @@
+c:\users\cana18096001\documents\visual studio 2013\Projects\Sophos\Sophos\bin\Debug\Sophos.exe.config
+c:\users\cana18096001\documents\visual studio 2013\Projects\Sophos\Sophos\bin\Debug\Sophos.exe
+c:\users\cana18096001\documents\visual studio 2013\Projects\Sophos\Sophos\bin\Debug\Sophos.pdb
+c:\users\cana18096001\documents\visual studio 2013\Projects\Sophos\Sophos\obj\Debug\Sophos.Properties.Resources.resources
+c:\users\cana18096001\documents\visual studio 2013\Projects\Sophos\Sophos\obj\Debug\Sophos.csproj.GenerateResource.Cache
+c:\users\cana18096001\documents\visual studio 2013\Projects\Sophos\Sophos\obj\Debug\Sophos.exe
+c:\users\cana18096001\documents\visual studio 2013\Projects\Sophos\Sophos\obj\Debug\Sophos.pdb
+C:\Users\CANA18096001\documents\visual studio 2013\Projects\Sophos\Sophos\obj\Debug\Sophos.MainForm.resources
+C:\Users\CANA18096001\documents\visual studio 2013\Projects\Sophos\Sophos\obj\Debug\Sophos.Status.resources
+C:\Users\CANA18096001\documents\visual studio 2013\Projects\Sophos\Sophos\obj\Debug\Sophos.Events.resources
+C:\Users\CANA18096001\documents\visual studio 2013\Projects\Sophos\Sophos\obj\Debug\Sophos.csprojResolveAssemblyReference.cache
+C:\Users\CANA18096001\documents\visual studio 2013\Projects\Sophos\Sophos\obj\Debug\Sophos.About.resources
+C:\Users\CANA18096001\documents\visual studio 2013\Projects\Sophos\Sophos\obj\Debug\Sophos.AdminLogin.resources
+C:\Users\CANA18096001\documents\visual studio 2013\Projects\Sophos\Sophos\bin\Debug\Sophos.exe.manifest
+C:\Users\CANA18096001\documents\visual studio 2013\Projects\Sophos\Sophos\bin\Debug\Sophos.application
+C:\Users\CANA18096001\documents\visual studio 2013\Projects\Sophos\Sophos\obj\Debug\Sophos.exe.manifest
+C:\Users\CANA18096001\documents\visual studio 2013\Projects\Sophos\Sophos\obj\Debug\Sophos.application
